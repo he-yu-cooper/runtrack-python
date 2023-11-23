@@ -1,5 +1,5 @@
-def liste_de_fruits():
+def fruits_list():
     fruits = ["pomme", "cerise", "orange"]
     return fruits
 
-print(liste_de_fruits()[1])
+print(fruits_list()[1])
